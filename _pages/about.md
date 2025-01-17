@@ -19,18 +19,25 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am currently a postdoctoral researcher in cryptography at Simula UiB in Norway. My main research interests are:
+I recently started as a lecturer in cryptography at the University of Tartu. My main research interests are:
+<ul>
+  <li>Zero-knowledge proofs.</li>
+  <li>SNARKs.</li>
+  <li>The design of advanced cryptographic protocols.</li>
+  <li>Provable security (especially in idealized security models).</li>
+</ul>
 
-Zero-knowledge proofs.
-SNARKs.
-The design of advanced cryptographic protocols.
-Provable security (especially in idealized security models).
-I obtained a PhD at the University of Tartu under the supervision of Helger Lipmaa. Previously I was also a postdoctoral researcher at the University of Edinburgh under the supervision of Markulf Kohlweiss.
 
-Send me an email to get in touch (jannosiim@gmail.com). I am always interested in discussing new research.
+I obtained a PhD at the University of Tartu under the supervision of Helger Lipmaa. 
+Previously I was also a postdoctoral researcher at the University of Edinburgh under the supervision of Markulf Kohlweiss
+and a postdoctoral research in Simula UiB in Norway.
 
-#Write your biography here.  You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Send me an email to get in touch (jannosiim at gmail dot com). I am always interested in discussing new research. 
+
+<!--
+Write your biography here.  You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 #Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
