@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Universtiy of Tartu</a>.
+subtitle: <a href='https://cs.ut.ee/en'>University of Tartu, Computer Science</a>.
 
 profile:
   align: right
