@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://JannoSiim.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://jannosiim.github.io/sitemap.xml
